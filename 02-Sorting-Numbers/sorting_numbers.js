@@ -1,6 +1,9 @@
 //insert your pseudocode below
 /*
-here
+create space
+put digits in space
+sort digits in increasing order 
+print digits
 */
 
 //insert your code below
